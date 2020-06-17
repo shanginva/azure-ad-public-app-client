@@ -1,0 +1,11 @@
+/home/vladimir/graphclient/bin/Debug/netcoreapp2.2/graphclient.deps.json
+/home/vladimir/graphclient/bin/Debug/netcoreapp2.2/graphclient.runtimeconfig.json
+/home/vladimir/graphclient/bin/Debug/netcoreapp2.2/graphclient.runtimeconfig.dev.json
+/home/vladimir/graphclient/bin/Debug/netcoreapp2.2/graphclient.dll
+/home/vladimir/graphclient/bin/Debug/netcoreapp2.2/graphclient.pdb
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.csprojAssemblyReference.cache
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.csproj.CoreCompileInputs.cache
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.AssemblyInfoInputs.cache
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.AssemblyInfo.cs
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.dll
+/home/vladimir/graphclient/obj/Debug/netcoreapp2.2/graphclient.pdb
